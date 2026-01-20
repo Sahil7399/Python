@@ -1,0 +1,8 @@
+first_student = "sahil"
+marks = 80
+if marks > 90:
+    print(f"{first_student} will get grade A")
+elif 60 <= marks <= 90:
+    print(f"{first_student} will get grade B")
+else:
+    print(f"{first_student} will get grade C")
