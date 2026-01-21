@@ -1,0 +1,9 @@
+def calculate_Gmean(a,b):
+    mean = (a*b)/(a+b)
+    print(mean)
+a = 9
+b = 8
+calculate_Gmean(a,b)
+c = 1
+d = 2
+calculate_Gmean(c,d)
